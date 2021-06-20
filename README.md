@@ -47,7 +47,7 @@
 | [Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228/index.html)                                                                                                                                   | 7                 |            |
 
 
-| Math                                                                                                                                                                                                                |                   |            |
+| Matématicas                                                                                                                                                                                                         |                   |            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [Linear Algebra Strang](https://www.academia.edu/32459792/_Strang_G_Linear_algebra_and_its_applications_4_5881001_PDF)                                                                                              | 5                 |            |
 | [Applied Linear Algebra](http://vmls-book.stanford.edu/vmls.pdf)                                                                                                                                                    | 5                 |            |
