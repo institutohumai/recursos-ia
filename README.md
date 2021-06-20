@@ -1,20 +1,19 @@
-|                                                                                                                                                                                                                     | Dificultad (1-10) | En español |
+| Práctica Python                                                                                                                                                                                                     | Dificultad (1-10) | En español |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
-| Práctica Python                                                                                                                                                                                                     |                   |            |
 | [https://www.kaggle.com/](https://www.kaggle.com/)                                                                                                                                                                  | 1-7               |            |
 | [https://www.codewars.com/](https://www.codewars.com/)                                                                                                                                                              | 1-8               | X          |
 |                                                                                                                                                                                                                     |                   |            |
 
-|                                                                                                                                                                                                                     |                   |            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
+
 | Otros                                                                                                                                                                                                               |                   |            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [https://paperswithcode.com/](https://paperswithcode.com/)                                                                                                                                                          | 5-10              |            |
 | [https://www.khanacademy.org/](https://www.khanacademy.org/)                                                                                                                                                        | 1-8               | X          |
 | [https://seeing-theory.brown.edu/](https://seeing-theory.brown.edu/)                                                                                                                                                | 3                 |            |
 
-|                                                                                                                                                                                                                     |                   |            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
+
 | Python/Data Science                                                                                                                                                                                                 |                   |            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [Python Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)                                                                                                                                       | 5                 |            |
 | [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)                                                                                                                                       | 5                 |            |
 | [Hands On ML](https://github.com/ageron/handson-ml2)                                                                                                                                                                | 5                 |            |
@@ -27,9 +26,8 @@
 | [Harvard Data Science CS109 ](http://cs109.github.io/2015/)                                                                                                                                                         | 3                 |            |
 
 
-|                                                                                                                                                                                                                     |                   |            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | Estadística y Probabilidad                                                                                                                                                                                          |                   |            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)                                                                                                                           | 6                 |            |
 | [Introductory Statistics - 4th Edition - Elsevier](https://www.elsevier.com/books/introductory-statistics/ross/978-0-12-804317-2)                                                                                   | 4                 |            |
 | [Mathematical Statistics and Data Analysis (with ... - Amazon.com](https://www.amazon.com/Mathematical-Statistics-Analysis-Available-Enhanced/dp/0534399428)                                                        | 6                 |            |
@@ -45,9 +43,9 @@
 | [Probability for CS](http://web.stanford.edu/class/cs109/)                                                                                                                                                          | 6                 |            |
 | [Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228/index.html)                                                                                                                                   | 7                 |            |
 
-|                                                                                                                                                                                                                     |                   |            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
+
 | Math                                                                                                                                                                                                                |                   |            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [Linear Algebra Strang](https://www.academia.edu/32459792/_Strang_G_Linear_algebra_and_its_applications_4_5881001_PDF)                                                                                              | 5                 |            |
 | [Applied Linear Algebra](http://vmls-book.stanford.edu/vmls.pdf)                                                                                                                                                    | 5                 |            |
 | [Calculus, Strang, MIT](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)                                                                                                    | 5                 |            |
@@ -59,10 +57,8 @@
 | [Mathematics for Computer Science - MIT ...](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)                                            | 7                 |            |
 
 
-
-|                                                                                                                                                                                                                     |                   |            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | Deep Learning/IA                                                                                                                                                                                                    |                   |            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)                                                                                                                                          | 3                 |            |
 | [Deep Learning](https://www.deeplearningbook.org/)                                                                                                                                                                  | 5                 |            |
 | [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)                                                                                                                        | 5                 |            |
@@ -78,23 +74,8 @@
 | [Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)                                                                                                                                   | 6                 |            |
 
 
-|                                                                                                                                                                                                                     |                   |            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
-| Neuro                                                                                                                                                                                                               |                   |            |
-| [NeuroMatch 2020](https://github.com/NeuromatchAcademy/course-content)                                                                                                                                              |                   |            |
-| [MAIN 2020](https://www.crowdcast.io/e/main2020/13)                                                                                                                                                                 |                   |            |
-| [NeurIPS 2020](https://neurips.cc/virtual/2020/public/cal_main.html)                                                                                                                                                |                   |            |
-| [NeuroHack 2020](https://github.com/neurohackademy/nh2020-curriculum)                                                                                                                                               |                   |            |
-| [Dayan & Abbott, Theoretical Neuroscience](http://www.gatsby.ucl.ac.uk/~lmate/biblio/dayanabbott.pdf)                                                                                                               | 8                 |            |
-| [Fundamentals of Computer Neuroscience, Trappenberg](https://www.amazon.com/Fundamentals-Computational-Neuroscience-Thomas-Trappenberg/dp/0199568413)                                                               | 7                 |            |
-| [Mathematical foundations of neuroscience, Ermentrout, Terman](https://www.springer.com/gp/book/9780387877075)                                                                                                      | 8                 |            |
-| [Berklee VS265: Neural Computation - Fall 2020](https://redwood.berkeley.edu/courses/vs265/)                                                                                                                        | 7                 |            |
-
-
-
-|                                                                                                                                                                                                                     |                   |            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | NLP                                                                                                                                                                                                                 |                   |            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [Speech and Language Processing - Stanford University](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)                                                                                                         | 7                 |            |
 | [Stanford NLP](http://cs224n.stanford.edu/)                                                                                                                                                                         | 7                 |            |
 | [Stanford Deep NLP](http://cs224d.stanford.edu/syllabus.html)                                                                                                                                                       | 7                 |            |
@@ -103,9 +84,8 @@
 | [Huggingface NLP](https://huggingface.co/course/chapter1)                                                                                                                                                           | 4                 |            |
 
 
-|                                                                                                                                                                                                                     |                   |            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | Colecciones                                                                                                                                                                                                         |                   |            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [Awesome NeuroAI](https://github.com/CYHSM/awesome-neuro-ai-papers)                                                                                                                                                 |                   |            |
 | [Awesome Match](https://github.com/rossant/awesome-math)                                                                                                                                                            |                   |            |
 | [Awesome Comp Neuro](https://github.com/eselkin/awesome-computational-neuroscience)                                                                                                                                 |                   |            |
@@ -116,9 +96,20 @@
 | [https://github.com/DataScienceResearchPeru/OpenSource-RoadMap-DataScience](https://github.com/DataScienceResearchPeru/OpenSource-RoadMap-DataScience)                                                              |                   | X          |
 
 
-|                                                                                                                                                                                                                     |                   |            |
+| Neuro                                                                                                                                                                                                               |                   |            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
+| [NeuroMatch 2020](https://github.com/NeuromatchAcademy/course-content)                                                                                                                                              |                   |            |
+| [MAIN 2020](https://www.crowdcast.io/e/main2020/13)                                                                                                                                                                 |                   |            |
+| [NeurIPS 2020](https://neurips.cc/virtual/2020/public/cal_main.html)                                                                                                                                                |                   |            |
+| [NeuroHack 2020](https://github.com/neurohackademy/nh2020-curriculum)                                                                                                                                               |                   |            |
+| [Dayan & Abbott, Theoretical Neuroscience](http://www.gatsby.ucl.ac.uk/~lmate/biblio/dayanabbott.pdf)                                                                                                               | 8                 |            |
+| [Fundamentals of Computer Neuroscience, Trappenberg](https://www.amazon.com/Fundamentals-Computational-Neuroscience-Thomas-Trappenberg/dp/0199568413)                                                               | 7                 |            |
+| [Mathematical foundations of neuroscience, Ermentrout, Terman](https://www.springer.com/gp/book/9780387877075)                                                                                                      | 8                 |            |
+| [Berklee VS265: Neural Computation - Fall 2020](https://redwood.berkeley.edu/courses/vs265/)                                                                                                                        | 7                 |            |
+
+
 | Otros                                                                                                                                                                                                               |                   |            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [Introduction to Computation and Programming Using Python ...](http://fuuu.be/polytech/INFOF408/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf)                                                       | 4                 |            |
 | [https://cs50.harvard.edu/college/2020/fall/](https://cs50.harvard.edu/college/2020/fall/)                                                                                                                          | 4                 |            |
 | [Cracking the Coding Interview - CIn UFPE](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)                                               | 6                 |            |
@@ -126,9 +117,8 @@
 | [Chaos & Fractals](http://carlosreynoso.com.ar/archivos/peitgen.pdf)                                                                                                                                                | 5                 |            |
 
 
-|                                                                                                                                                                                                                     |                   |            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | RL                                                                                                                                                                                                                  |                   |            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [Hands On RL](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)                                                                                                                              | 5                 |            |
 | [RL Notes](https://github.com/dennybritz/reinforcement-learning)                                                                                                                                                    | 5                 |            |
 | [Berkleey RL](http://rail.eecs.berkeley.edu/deeprlcourse/)                                                                                                                                                          | 7                 |            |
