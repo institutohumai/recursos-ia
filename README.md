@@ -1,21 +1,17 @@
-# Recursos abiertos para complementar nuestros cursos: 
+### Recursos abiertos para estudiar ciencia de datos y redes neuronales artificiales: 
 
 
-| Práctica Python                                                                                                                                                                                                     | Dificultad (1-10) | En español |
+| Python                                                                                                                                                                                                              | Dificultad (1-10) | En español |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
+| [Whirlwind Tour Of Python](https://github.com/jakevdp/WhirlwindTourOfPython)                                                                                                                                        | 4                 |            |
+| [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                                                                                        | 3                 |            |
 | [https://www.kaggle.com/](https://www.kaggle.com/)                                                                                                                                                                  | 1-7               |            |
 | [https://www.codewars.com/](https://www.codewars.com/)                                                                                                                                                              | 1-8               | X          |
-|                                                                                                                                                                                                                     |                   |            |
+| [Introduction to Computation and Programming Using Python ...](http://fuuu.be/polytech/INFOF408/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf)                                                       | 4                 |            |
+| [Cracking the Coding Interview - CIn UFPE](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)                                               | 6                 |            |
 
 
-| Otros                                                                                                                                                                                                               |                   |            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
-| [https://paperswithcode.com/](https://paperswithcode.com/)                                                                                                                                                          | 5-10              |            |
-| [https://www.khanacademy.org/](https://www.khanacademy.org/)                                                                                                                                                        | 1-8               | X          |
-| [https://seeing-theory.brown.edu/](https://seeing-theory.brown.edu/)                                                                                                                                                | 3                 |            |
-
-
-| Python/Data Science                                                                                                                                                                                                 |                   |            |
+| Ciencia de Datos y Aprendizaje Automático                                                                                                                                                                           |                   |            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [Python Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)                                                                                                                                       | 5                 |            |
 | [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)                                                                                                                                       | 5                 |            |
@@ -24,15 +20,15 @@
 | [PyData](https://github.com/wesm/pydata-book)                                                                                                                                                                       | 5                 |            |
 | [Stanford Machine Learning](http://cs229.stanford.edu/syllabus-fall2020.html)                                                                                                                                       | 6                 |            |
 | [NYU Data Science](https://davidrosenberg.github.io/ml2019/#lectures)                                                                                                                                               | 7                 |            |
-| [Whirlwind Tour Of Python](https://github.com/jakevdp/WhirlwindTourOfPython)                                                                                                                                        | 4                 |            |
-| [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                                                                                                                                        | 3                 |            |
 | [Harvard Data Science CS109 ](http://cs109.github.io/2015/)                                                                                                                                                         | 3                 |            |
 
 
 | Estadística y Probabilidad                                                                                                                                                                                          |                   |            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
-| [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)                                                                                                                           | 6                 |            |
+| [https://seeing-theory.brown.edu/](https://seeing-theory.brown.edu/)                                                                                                                                                | 3                 |            |
+| [https://www.khanacademy.org/](https://www.khanacademy.org/)                                                                                                                                                        | 1-8               | X          |
 | [Introductory Statistics - 4th Edition - Elsevier](https://www.elsevier.com/books/introductory-statistics/ross/978-0-12-804317-2)                                                                                   | 4                 |            |
+| [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)                                                                                                                           | 6                 |            |
 | [Mathematical Statistics and Data Analysis (with ... - Amazon.com](https://www.amazon.com/Mathematical-Statistics-Analysis-Available-Enhanced/dp/0534399428)                                                        | 6                 |            |
 | [Thinking Bayes Stats Python github](https://github.com/AllenDowney/ThinkBayes)                                                                                                                                     | 4                 |            |
 | [Computational Statistics Duke](https://people.duke.edu/~ccc14/sta-663/)                                                                                                                                            | 6                 |            |
@@ -49,6 +45,7 @@
 
 | Matématicas                                                                                                                                                                                                         |                   |            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
+| [https://www.khanacademy.org/](https://www.khanacademy.org/)                                                                                                                                                        | 1-8               | X          |
 | [Linear Algebra Strang](https://www.academia.edu/32459792/_Strang_G_Linear_algebra_and_its_applications_4_5881001_PDF)                                                                                              | 5                 |            |
 | [Applied Linear Algebra](http://vmls-book.stanford.edu/vmls.pdf)                                                                                                                                                    | 5                 |            |
 | [Calculus, Strang, MIT](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/)                                                                                                    | 5                 |            |
@@ -58,6 +55,7 @@
 | [Calculus, Vol. 1: One-Variable Calculus, with an Introduction to](https://www.amazon.com/Calculus-Vol-One-Variable-Introduction-Algebra/dp/0471000051)                                                             | 5                 |            |
 | [matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/) | 7                 |            |
 | [Mathematics for Computer Science - MIT ...](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)                                            | 7                 |            |
+| [Chaos & Fractals](http://carlosreynoso.com.ar/archivos/peitgen.pdf)                                                                                                                                                | 5                 |            |
 
 
 | Deep Learning/IA                                                                                                                                                                                                    |                   |            |
@@ -68,13 +66,14 @@
 | [Sutton Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)                                                                                                      | 7                 |            |
 | [https://github.com/Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning)                                                                                                                  | 6                 |            |
 | [Theoretical Foundations of Artificial General Intelligence Pei ...](https://www.springer.com/gp/book/9789491216619)                                                                                                | 5                 |            |
-| [Superintelligence: Nick Bostrom, Napoleon Ryan - Amazon.com](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742)                                                               | 2                 |            |
+| [https://paperswithcode.com/](https://paperswithcode.com/)                                                                                                                                                          | 5-10              |            |
 | [CS221 Stanford IA](https://stanford-cs221.github.io/autumn2020/)                                                                                                                                                   | 7                 |            |
 | [CS230 Stanford Deep Learning](https://cs230.stanford.edu/)                                                                                                                                                         | 7                 |            |
 | [Theoretical ML](https://www.cs.princeton.edu/courses/archive/spring19/cos511/index.html)                                                                                                                           | 7                 |            |
 | [Stanford Convolutional Networks for Visual](http://cs231n.stanford.edu/)                                                                                                                                           | 7                 |            |
 | [Bayesian Reasoning and Machine Learning - UCL](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf?roistat_visit=10865700)                                                                                 | 7                 |            |
 | [Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)                                                                                                                                   | 6                 |            |
+| [Superintelligence: Nick Bostrom, Napoleon Ryan - Amazon.com](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742)                                                               | 2                 |            |
 
 
 | NLP                                                                                                                                                                                                                 |                   |            |
@@ -92,6 +91,7 @@
 | [Awesome NeuroAI](https://github.com/CYHSM/awesome-neuro-ai-papers)                                                                                                                                                 |                   |            |
 | [Awesome Match](https://github.com/rossant/awesome-math)                                                                                                                                                            |                   |            |
 | [Awesome Comp Neuro](https://github.com/eselkin/awesome-computational-neuroscience)                                                                                                                                 |                   |            |
+| [Awesome Colabs](https://github.com/amrzv/awesome-colab-notebooks)                                                                                                                                                  |                   |            |
 | [ML Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)                                                                                                                                            |                   |            |
 | [https://montrealartificialintelligence.com/academy/](https://montrealartificialintelligence.com/academy/)                                                                                                          |                   |            |
 | [https://sgfin.github.io/learning-resources](https://sgfin.github.io/learning-resources)                                                                                                                            |                   |            |
@@ -111,16 +111,7 @@
 | [Berklee VS265: Neural Computation - Fall 2020](https://redwood.berkeley.edu/courses/vs265/)                                                                                                                        | 7                 |            |
 
 
-| Otros                                                                                                                                                                                                               |                   |            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
-| [Introduction to Computation and Programming Using Python ...](http://fuuu.be/polytech/INFOF408/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf)                                                       | 4                 |            |
-| [https://cs50.harvard.edu/college/2020/fall/](https://cs50.harvard.edu/college/2020/fall/)                                                                                                                          | 4                 |            |
-| [Cracking the Coding Interview - CIn UFPE](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)                                               | 6                 |            |
-| [The Cambridge Handbook of Computational Psychology](https://www.cambridge.org/core/books/cambridge-handbook-of-computational-psychology/B75504CC151DA86CB98D555C96FC55A2)                                          | 5                 |            |
-| [Chaos & Fractals](http://carlosreynoso.com.ar/archivos/peitgen.pdf)                                                                                                                                                | 5                 |            |
-
-
-| RL                                                                                                                                                                                                                  |                   |            |
+| Aprendizaje por Refuerzo                                                                                                                                                                                            |                   |            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [Hands On RL](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)                                                                                                                              | 5                 |            |
 | [RL Notes](https://github.com/dennybritz/reinforcement-learning)                                                                                                                                                    | 5                 |            |
