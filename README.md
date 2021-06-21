@@ -9,6 +9,8 @@
 | [https://www.codewars.com/](https://www.codewars.com/)                                                                                                                                                              | 1-8               | X          |
 | [Introduction to Computation and Programming Using Python ...](http://fuuu.be/polytech/INFOF408/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf)                                                       | 4                 |            |
 | [Cracking the Coding Interview - CIn UFPE](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)                                               | 6                 |            |
+| [Curso Intro a Python - Humai](https://github.com/institutohumai/cursos-python/tree/master/Introduccion)                                                                                                            | 2                 | X          |
+| [Curso Scraping - Humai](https://github.com/institutohumai/cursos-python/tree/master/Scraping)                                                                                                                      | 2                 | X          |
 
 
 | Ciencia de Datos y Aprendizaje Automático                                                                                                                                                                           |                   |            |
@@ -21,7 +23,8 @@
 | [Stanford Machine Learning](http://cs229.stanford.edu/syllabus-fall2020.html)                                                                                                                                       | 6                 |            |
 | [NYU Data Science](https://davidrosenberg.github.io/ml2019/#lectures)                                                                                                                                               | 7                 |            |
 | [Harvard Data Science CS109 ](http://cs109.github.io/2015/)                                                                                                                                                         | 3                 |            |
-
+| [Análisis de datos - Humai](https://github.com/institutohumai/cursos-python/tree/master/AnalisisDeDatos)                                                                                                            | 3                 | X          |
+| [Talleres DS y ML - Humai](https://github.com/institutohumai/talleres)                                                                                                                                              | 3                 | X          |
 
 | Estadística y Probabilidad                                                                                                                                                                                          |                   |            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
