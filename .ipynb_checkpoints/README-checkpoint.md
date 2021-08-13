@@ -1,19 +1,6 @@
 ### Recursos abiertos para estudiar ciencia de datos y redes neuronales artificiales: 
 
 
-| Introducción a la Programación                                                                                                                                                                                                              | Dificultad (1-10) | En español |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
-| [Cómo funciona una computadora (video)](https://www.youtube.com/watch?v=oYxE3L-6-a8)                                                                                                                                 | 1                 | X          |
-| [El reto de las instrucciones exactas (video)](https://www.youtube.com/watch?v=Sk0oWFYMKbc)                                                                                                                           | 1                 | X          |
-| [Curso de Introducción a los Algoritmos - códigofacilito](https://codigofacilito.com/cursos/algoritmos)                                                                     | 1                 | X          |
-| [¿Qué es un entorno de desarrollo integrado? (video)](https://www.youtube.com/watch?v=_WKWpJEv9UY)                                                                                                     | 1                 | X          |
-| [Anaconda ¿Qué es el Proyecto Jupyter? (video)](https://www.youtube.com/watch?v=Gi92BhWuuT0)                     | 1                 | X          |
-| [Consejos para empezar a programar (blog)](https://unlugarparapensar.wixsite.com/unlugarparapensar/post/guia-definitiva-para-empezar-a-programar-qu%C3%A9-hacer-y-qu%C3%A9-no-hacer-cuando-reci%C3%A9n-inicias)                                           | 1                 | X          |
-| [¿Qué es la Ciencia de Datos?](https://medium.com/datos-y-ciencia/qu%C3%A9-diablos-es-ciencia-de-datos-f1c8c7add107)                                           | 1                 | X          |
-| [Computer Science fundamentals](https://brilliant.org/courses/computer-science-essentials/)                                                                                                                         | 1                 |           |
-| [How to Think Like a Computer Scientist - Rune academy](https://runestone.academy/runestone/books/published/thinkcspy/index.html)                                       | 2                 |           |
-
-
 | Python                                                                                                                                                                                                              | Dificultad (1-10) | En español |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
 | [Whirlwind Tour Of Python](https://github.com/jakevdp/WhirlwindTourOfPython)                                                                                                                                        | 4                 |            |
@@ -28,7 +15,6 @@
 
 | Ciencia de Datos y Aprendizaje Automático                                                                                                                                                                           |                   |            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------- |
-| [Laboratorio de Datos - Departamento de Física - Exactas UBA](http://materias.df.uba.ar/lda2021c1/sample-page/)                                                               | 5                 | X           |
 | [Python Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)                                                                                                                                       | 5                 |            |
 | [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)                                                                                                                                       | 5                 |            |
 | [Hands On ML](https://github.com/ageron/handson-ml2)                                                                                                                                                                | 5                 |            |
