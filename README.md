@@ -9,6 +9,7 @@
 | [¿Qué es un entorno de desarrollo integrado? (video)](https://www.youtube.com/watch?v=_WKWpJEv9UY)                                                                                                     | 1                 | X          |
 | [Anaconda ¿Qué es el Proyecto Jupyter? (video)](https://www.youtube.com/watch?v=Gi92BhWuuT0)                     | 1                 | X          |
 | [Consejos para empezar a programar (blog)](https://unlugarparapensar.wixsite.com/unlugarparapensar/post/guia-definitiva-para-empezar-a-programar-qu%C3%A9-hacer-y-qu%C3%A9-no-hacer-cuando-reci%C3%A9n-inicias)                                           | 1                 | X          |
+| [Aprender Python con Mimo (Aplicación móvil)](https://getmimo.com/)                                           | 1                 |            |
 | [¿Qué es la Ciencia de Datos?](https://medium.com/datos-y-ciencia/qu%C3%A9-diablos-es-ciencia-de-datos-f1c8c7add107)                                           | 1                 | X          |
 | [Computer Science fundamentals](https://brilliant.org/courses/computer-science-essentials/)                                                                                                                         | 1                 |           |
 | [How to Think Like a Computer Scientist - Rune academy](https://runestone.academy/runestone/books/published/thinkcspy/index.html)                                       | 2                 |           |
