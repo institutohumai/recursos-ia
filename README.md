@@ -24,10 +24,9 @@
 | [Introduction to Computation and Programming Using Python ...](http://fuuu.be/polytech/INFOF408/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf)         |
 | [Cracking the Coding Interview - CIn UFPE](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf) |
 | [Curso Intro a Python - Humai](https://github.com/institutohumai/cursos-python/tree/master/Introduccion)                                                              |
-| [Curso Scraping - Humai](https://github.com/institutohumai/cursos-python/tree/master/Scraping) 
-|
-| [Sobre args y kwargs en Python](https://ellibrodepython.com/args-kwargs-python)      |
-| [Sobre type hints en Python](https://www.youtube.com/watch?v=GYtzeTcOjxc)      |
+| [Curso Scraping - Humai](https://github.com/institutohumai/cursos-python/tree/master/Scraping) |
+| [Sobre args y kwargs en Python](https://ellibrodepython.com/args-kwargs-python)  |
+| [Sobre type hints en Python](https://www.youtube.com/watch?v=GYtzeTcOjxc)    |
 | [Apuntes sobre curso de Udemy](https://docs.hektorprofe.net/python/)      |
 
 
