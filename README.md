@@ -40,6 +40,8 @@
 | [Harvard Data Science CS109 ](http://cs109.github.io/2015/)                                                     |
 | [Análisis de datos - Humai](https://github.com/institutohumai/cursos-python/tree/master/AnalisisDeDatos)        |
 | [Talleres DS y ML - Humai](https://github.com/institutohumai/talleres)                                          |
+| [Intro a ML (notebooks)](https://github.com/taldatech/cs236756-intro-to-ml)                                          |
+
 
 | Estadística y Probabilidad                                                                                                                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -92,6 +94,7 @@
 | [Bayesian Reasoning and Machine Learning - UCL](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf?roistat_visit=10865700)                   |
 | [Larochelle](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)                                                                     |
 | [Superintelligence: Nick Bostrom, Napoleon Ryan - Amazon.com](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) |
+https://github.com/dccuchile/CC6204
 
 
 | NLP                                                                                                         |
